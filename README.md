@@ -28,8 +28,6 @@ Usage
 Create a Quiz in Your Post:
 
 Format your quiz questions in the post content using the following structure:
-mathematica
-Copy code
 Question: What is the capital of France?
 Options:
 A. Berlin
