@@ -1,22 +1,22 @@
-Hyplancer Auto Quiz WordPress Plugin Documentation
-Overview
-Plugin Name: Hyplancer Auto Quiz
-Description: Automatically generates a custom interactive quiz from text and replaces quiz text in posts, with GamiPress custom event for correct answers.
-Version: 1.2
-Author: James-Hart Kingsley
-Author URI: https://www.linkedin.com/in/kingsley-james-hart-93679b184/?originalSubdomain=ng
+#Hyplancer Auto Quiz WordPress Plugin Documentation
+##Overview
+**Plugin Name: Hyplancer Auto Quiz
+**Description: Automatically generates a custom interactive quiz from text and replaces quiz text in posts, with GamiPress custom event for correct answers.
+**Version: 1.2
+**Author: James-Hart Kingsley
+**Author URI: https://www.linkedin.com/in/kingsley-james-hart-93679b184/?originalSubdomain=ng
 
-Features
+##Features
 Automatically identifies quiz questions in post content.
 Generates interactive quiz HTML and JavaScript.
 Prevents users from taking the same quiz within 24 hours.
 Integrates with GamiPress to trigger a custom event when a user answers a quiz correctly.
 Customizable quiz appearance with CSS.
 Installation
-Download the Plugin:
+##Download the Plugin:
 
 Clone or download the plugin files from the GitHub repository (steps to create and upload to GitHub are detailed below).
-Upload the Plugin:
+##Upload the Plugin:
 
 Log in to your WordPress admin dashboard.
 Go to Plugins > Add New > Upload Plugin.
@@ -26,7 +26,7 @@ Verify GamiPress Installation:
 
 Ensure that the GamiPress plugin is installed and activated on your WordPress site.
 Usage
-Create a Quiz in Your Post:
+##Create a Quiz in Your Post:
 
 Format your quiz questions in the post content using the following structure:
 Question: What is the capital of France?
@@ -36,10 +36,10 @@ B. Madrid
 C. Paris
 D. Rome
 Correct Option: C
-Publish or Update the Post:
+##Publish or Update the Post:
 
 When the post is published or updated, the plugin will automatically replace the quiz text with interactive quiz HTML.
-User Interaction:
+##User Interaction:
 
 Users can attempt the quiz. If they answer correctly, a custom GamiPress event will be triggered.
 Users will be locked from taking the quiz again for 24 hours.
