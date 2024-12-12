@@ -3,7 +3,8 @@ Overview
 Plugin Name: Hyplancer Auto Quiz
 Description: Automatically generates a custom interactive quiz from text and replaces quiz text in posts, with GamiPress custom event for correct answers.
 Version: 1.2
-Author: Kingsley James-Hart
+Author: James-Hart Kingsley
+Author URI: https://www.linkedin.com/in/kingsley-james-hart-93679b184/?originalSubdomain=ng
 
 Features
 Automatically identifies quiz questions in post content.
